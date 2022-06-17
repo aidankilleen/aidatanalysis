@@ -1,0 +1,6 @@
+aidatanalysis.py
+setup.py
+aidatanalysis.egg-info/PKG-INFO
+aidatanalysis.egg-info/SOURCES.txt
+aidatanalysis.egg-info/dependency_links.txt
+aidatanalysis.egg-info/top_level.txt
